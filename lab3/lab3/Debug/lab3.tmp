@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\Debug\lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab3.map</FILE>
+  <FILE>lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>10</LINE></MAIN>
+  <CLK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>69</LINE></CLK>
+  <EBI><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>94</LINE></EBI>
+  <STARTOVER><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>32</LINE></STARTOVER>
+  <FLAG><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>40</LINE></FLAG>
+  <REPEAT><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>47</LINE></REPEAT>
+  <CHECK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>60</LINE></CHECK>
+  <LOAD><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>54</LINE></LOAD>
+  <NSTABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>74</LINE></NSTABLE>
+  <STABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 3\lab3\lab3\test.asm</FILE><LINE>80</LINE></STABLE>
+ </LABELS>
+</ASSEMBLER_INFO>
